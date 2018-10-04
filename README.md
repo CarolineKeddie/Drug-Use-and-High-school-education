@@ -4,7 +4,6 @@ Improvements in reducing drug usage and education at a government level
 
  Business Case
 
-Your hometown mayor just created a new data analysis team to give policy advice, and the administration recruited _you_ via LinkedIn to join it. Unfortunately, due to budget constraints, for now the "team" is just you...
 
 The mayor wants to start a new initiative to move the needle on one of two separate issues: high school education outcomes, or drug abuse in the community.
 
